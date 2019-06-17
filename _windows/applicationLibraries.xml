@@ -1,0 +1,49 @@
+<application>
+  <component name="libraryTable">
+    <library name="angular" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.7.5_angular.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.7.5_angular.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular material 1.1.8" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular-animate.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular-aria.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular-material.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular-messages.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular-animate.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular-aria.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular-material.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular-messages.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/angular material 1.1.8/angular.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.3.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>

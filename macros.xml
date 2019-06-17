@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Aglify">
+      <action id="StringManipulation.RemoveNewLinesAction" />
+      <action id="osmedile.intellij.stringmanip.TrimAction" />
+      <action id="osmedile.intellij.stringmanip.TrimAllSpacesAction" />
+    </macro>
+  </component>
+</application>
