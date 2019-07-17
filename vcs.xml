@@ -10,11 +10,12 @@
           <option name="url" value="https://github.com/vaspapa7/ng-trustanduse.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.macguyvermedia.com:8443" />
+          <option name="userName" value="gchanturia" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\George Dev\PhpstormProjects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
 </application>
