@@ -1,16 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="modul" type="Native" />
       <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="templates" type="PLAIN_TEXT" />
       <mapping pattern="editCompanyForm.js" type="PLAIN_TEXT" />
       <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
